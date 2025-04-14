@@ -10,7 +10,7 @@ const Register = () => {
 
   // Initialize Google Analytics
   useEffect(() => {
-    ReactGA.initialize("G-M8E6Z3NGZV"); // Replace with your GA Measurement ID
+    ReactGA.initialize("G-55SRG2GK2W"); // Replace with your GA Measurement ID
   }, []);
 
   //from submit
