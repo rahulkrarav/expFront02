@@ -9,7 +9,7 @@ function App() {
   const location = useLocation();  // useLocation hook to track route changes
   useEffect(() => {
     // Initialize Google Analytics
-    ReactGA.initialize('G-M8E6Z3NGZV'); // Replace with your GA Measurement ID
+    ReactGA.initialize('G-55SRG2GK2W'); // Replace with your GA Measurement ID
 
     // Track page views whenever the location changes (i.e., whenever route changes)
     ReactGA.send('pageview', location.pathname + location.search);
