@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Features
+
+User Registration and Login
+Add Financial Transaction Record
+Add Catagorized and Dated Transactions
+View Visualized data by transaction type and catagorywise
+Use as a digital diary
+
+#Hosted
+[Expense Management System(https://tiny-meringue-743452.netlify.app/)]
+
 ## Available Scripts
 
 In the project directory, you can run:
